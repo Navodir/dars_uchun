@@ -1,5 +1,6 @@
 
-print("Salom qani")
+
+def plus(a, b):
+	return a + b
 
 
-print("salom")
